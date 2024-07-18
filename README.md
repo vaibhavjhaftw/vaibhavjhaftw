@@ -1,5 +1,5 @@
 # 💫 About Me:
-CSE 27' | Developer & Freelancer | Technical Writer (INFJ-A)<br><br>Building the future, one line of code at a time. I'm a curious learner, constantly honing my skills and exploring the frontiers of software development.  Fueled by a passion to craft innovative solutions, I'm always up for a challenge.<br><br>Let's build something groundbreaking!<br><br>Curious about:<br><br>Your coding journey (let's connect!)<br>The intersection of development & the our challenges<br>Pushing boundaries and tackling bugs<br>Right now? Probably Brainstorming..
+CSE 27' | Developer & Freelancer | Technical Writer (INFJ-A)<br><br>Building the future, one line of code at a time. I'm a curious learner, constantly honing my skills and exploring the frontiers of software development.  Fueled by a passion to craft innovative solutions, I'm always up for a challenge.<br><br>Let's build something groundbreaking!<br><br>Curious about:<br><br>Your coding journey (let's connect!)<br>The intersection of development & the our challenges<br>Pushing boundaries while tackling bugs<br>Right now? Probably Brainstorming..
 
 
 ## 🌐 Socials:
