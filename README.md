@@ -83,10 +83,6 @@
 	</a>
 </div> 
 
-
-
-  
-
 <br/>  
 
 
@@ -94,7 +90,8 @@
 <br>
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation"/>
 
-###![github footer](https://github.com/user-attachments/assets/786b21dc-6872-47dc-8b46-e3f7c78e20cb)
+
+![github footer](https://github.com/user-attachments/assets/c44cda51-efa7-43f8-847a-1f3dfc381dd1)
 
 
 ----
