@@ -81,7 +81,10 @@
 <a href="mailto:vaibhavkantjha@gmail.com">
 		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 	</a>
-</div>  
+</div> 
+
+
+
   
 
 <br/>  
@@ -90,6 +93,8 @@
 ###
 <br>
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation"/>
-###
+
+###![github footer](https://github.com/user-attachments/assets/786b21dc-6872-47dc-8b46-e3f7c78e20cb)
+
 
 ----
