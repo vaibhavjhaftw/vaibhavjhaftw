@@ -86,12 +86,6 @@
 
 <br/>  
 
-
-###
-<br>
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation"/>
-###
-
 ![github footer](https://github.com/user-attachments/assets/eed333fd-9dc1-4df3-963d-4ef9602b2df7)
 
 ----
