@@ -9,7 +9,7 @@
 - 🔭 Currently working on [WebXFactor Store](https://webxfactor.store/)  
   
 
-- 📱 Mobile App Developer | 🌐 Web Designer | 📝 Technical Writer (INFJ-A)  
+- 📱 Mobile App Developer | 🌐 Web Designer | 📝 Technical Writer (ENFJ-A)  
   
 
 - 🧑🏻‍💻 Artificial Intelligence Enthusiast & an Overall Tech Geek!  
